@@ -1,4 +1,4 @@
-# Restaurants-list-android-app
+# Restaurants-list-android-json-php-app
 Android - json-php
 
 
